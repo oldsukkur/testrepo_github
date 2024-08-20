@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x 3 cvpadmin cvpadmin 4096 Aug 19 23:50 .
+drwxrwxr-x 7 cvpadmin cvpadmin 4096 Aug 19 23:06 ..
+drwxrwxr-x 8 cvpadmin cvpadmin 4096 Aug 19 23:46 .git
+-rw-rw-r-- 1 cvpadmin cvpadmin   51 Aug 19 23:40 test1.txt
+-rw-rw-r-- 1 cvpadmin cvpadmin   25 Aug 19 23:20 test2.txt
+-rw-rw-r-- 1 cvpadmin cvpadmin   24 Aug 19 23:20 test3.txt
+-rw-rw-r-- 1 cvpadmin cvpadmin   28 Aug 19 23:48 test4.txt
+-rw-rw-r-- 1 cvpadmin cvpadmin    0 Aug 19 23:50 test5.txt
